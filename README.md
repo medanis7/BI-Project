@@ -1,5 +1,8 @@
 # 📊 Northwind Data Warehouse & Business Intelligence Project
 
+![dashboard1](dashboard1.png)
+![dashboard2](dashboard2.png)
+
 ## 📌 Description du projet
 
 Ce projet académique consiste à concevoir et implémenter une solution complète de **Business Intelligence** basée sur la base de données **Northwind**.
